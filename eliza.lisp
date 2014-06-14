@@ -1,5 +1,5 @@
 ;; eliza.lisp
-;; https://github.com/miercoledi/cl-eliza.git
+;; https://github.com/nydel/cl-eliza.git
 ;; simple eliza archetecture for commonlisp
 
 ;; dependencies
